@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2020-06-23T18:41:44.3355184Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "MySiteBuilder"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "8ff309b7-9c9f-46e5-b83c-57020a4c194a"
+    }
+  }
+}

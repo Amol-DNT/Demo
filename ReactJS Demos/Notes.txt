@@ -1,0 +1,31 @@
+React JS (v16.5.2)
+
+	What is React?
+Is NOT framework but Open Source JS Lib
+Focusing on doing 1 thing (building reach UI) & doing that 1 thing really well
+Rich ecosystem for other requirements to fullfill
+
+	Why React?
+Develop by Facebook
+Huge community
+Most demanded skillset
+Componenet based architecture
+
+	Prerequisites
+HTML, CSS & JS
+ES6(ES2015)
+
+	Envirnment Setup for React-JS Development
+Node JS + Code Editor (ex. VS Code)
+
+	Creating frist ReactJS app
+npx create-react-app hello-world
+(In the above example:
+	npx - is the Node Package Runner, used to install & run the packages on the fly. You can also use npm instead npx.
+	create-react-app - is the command line tool for creating ReactJS app
+	hello-world - is the name of application	
+)
+npm start (command to run app)
+
+	Type of Components (Function Components & Class Componenent)
+

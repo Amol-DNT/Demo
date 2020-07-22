@@ -1,0 +1,6 @@
+<div *ngIf="product">            
+    <h4>{{product.name | uppercase}} Details</h4>
+    <div> Id: {{product.id}}</div>
+    <div> Name: {{product.name}}</div> <!-- <div> <span>Name: </span> <input [(ngModel)]="selectedProduct.name"/></div> -->
+    <div> Price: {{product.price}}</div>                
+</div>
